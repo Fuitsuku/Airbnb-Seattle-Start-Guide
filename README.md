@@ -1,2 +1,3 @@
 # Airbnb-Seattle-Start-Guide
-A beginner's resource for opening up your first Airbnb in Seattle Washington.
+A dashboard containing five data visualizations that may help a beginner open up their first Airbnb listing in Seattle, WA.
+(Data was taken from kaggle.come)
